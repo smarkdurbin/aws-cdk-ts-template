@@ -1,8 +1,12 @@
-# Welcome to your CDK TypeScript project!
+# aws-cdk-ts-template
 
-This is a blank project for TypeScript development with CDK.
+This is a template for building AWS CDK projects with Typescript.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
+
+## Features
+
+- `config/config.ts` for consuming variables in a `.env` file.
 
 ## Useful commands
 
